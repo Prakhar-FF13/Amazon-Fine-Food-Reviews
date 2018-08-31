@@ -1,7 +1,7 @@
 # Learning Project.
 
 ## Objective :
-The aim of this project was to learn how to do data analysis and apply techniques like Feature Engineering, Training ML Models.
+The aim of this project was to learn how to do data analysis and apply techniques like Feature Engineering, Training ML Models etc.
 
 ## Outcomes :
 1. Learnt how to do Sentiment analysis.
