@@ -1,4 +1,5 @@
 # Learning Project.
+> Applied AI Course assignment work.
 
 ## Objective :
 The aim of this project was to learn how to do data analysis and apply techniques like Feature Engineering, Training ML Models etc.
